@@ -10,8 +10,8 @@ page_sections:
   - link: "/"
     link_text: Portfoilio
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: mailto:info@cryptmin.net
+    button_text: Contact
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
