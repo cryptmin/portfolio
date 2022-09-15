@@ -8,4 +8,4 @@ fields:
   hidden: false
   default: default
 pages:
-- _posts/foo.md
+- _posts/2022-09-15-foo.md
